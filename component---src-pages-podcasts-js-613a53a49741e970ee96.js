@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunktaik_website=self.webpackChunktaik_website||[]).push([[253],{42653:function(e,t,n){n.r(t);var a=n(67294),l=n(19903),r=n(97016);t.default=function(){return a.createElement(l.Z,{bannerStyle:{backgroundImage:"none"},hide:!0},a.createElement(r.HJ,{title:"TAIK PODCASTS"}),a.createElement(r.ZZ,null))}}}]);
+//# sourceMappingURL=component---src-pages-podcasts-js-613a53a49741e970ee96.js.map
