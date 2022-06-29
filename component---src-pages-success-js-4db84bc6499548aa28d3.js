@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunktaik_website=self.webpackChunktaik_website||[]).push([[866],{86024:function(e,t,n){n.r(t);var c=n(67294),a=n(19903),l=n(37110),i=l.c$.jL;t.default=function(){return c.createElement(a.Z,{bannerChildren:c.createElement(i,{title:"Successfully Donated"})},c.createElement(l.HJ,{title:"SUCCESSFUL DONATION",donation:"Successful donation to The Africa I Know,Inc."}),c.createElement("article",{id:"index-article"},c.createElement(l.hd,null)))}}}]);
+//# sourceMappingURL=component---src-pages-success-js-4db84bc6499548aa28d3.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunktaik_website=self.webpackChunktaik_website||[]).push([[691],{91070:function(e,t,n){n.r(t),n.d(t,{default:function(){return l}});var i=n(67294),c=n(19903),r=n(37110),a=r.c$.jL;function l(){return i.createElement(c.Z,{bannerChildren:i.createElement(a,{title:"Privacy Policy",description:"Please Read Carefully"})},i.createElement(r.HJ,{title:"TAIK - PRIVACY POLICY",description:"The Africa I Know, Inc Privacy Policy."}),i.createElement(r.pu,null))}}}]);
+//# sourceMappingURL=component---src-pages-privacypolicy-js-0ba5ac79a5f8e56ac98e.js.map

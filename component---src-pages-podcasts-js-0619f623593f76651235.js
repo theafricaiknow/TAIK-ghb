@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunktaik_website=self.webpackChunktaik_website||[]).push([[253],{42653:function(e,n,t){t.r(n);var i=t(67294),a=t(19903),s=t(37110);n.default=function(){return i.createElement(a.Z,{bannerStyle:{backgroundImage:"none"},hide:!0},i.createElement(s.HJ,{title:"TAIK PODCASTS",description:"Listen to insightful, engaging and hopeful discussions about the African Continent."}),i.createElement(s.ZZ,null))}}}]);
+//# sourceMappingURL=component---src-pages-podcasts-js-0619f623593f76651235.js.map

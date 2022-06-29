@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunktaik_website=self.webpackChunktaik_website||[]).push([[985],{90969:function(e,t,n){n.r(t);var r=n(67294),a=n(19903),c=n(37110),i=c.c$.NV;t.default=function(){return r.createElement(a.Z,{bannerChildren:r.createElement(i,null),bannerStyle:{backgroundImage:"none"}},r.createElement(c.HJ,{title:"JOIN US",description:"Apply to become a contributor or for a position at The Africa I Know, Inc."}),r.createElement(c.NV,null))}}}]);
+//# sourceMappingURL=component---src-pages-join-js-ea109832cfd5888cdfc9.js.map

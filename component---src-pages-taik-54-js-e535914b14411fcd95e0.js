@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunktaik_website=self.webpackChunktaik_website||[]).push([[450],{11917:function(e,t,i){i.r(t);var n=i(67294),r=i(19903),s=i(37110),a=s.c$.jL;t.default=function(){return n.createElement(r.Z,{bannerHeight:"700px",bannerChildren:n.createElement(a,{title:"TAIK 54",description:"The 54 most inspiring peoples in or from Africa"})},n.createElement(s.HJ,{title:"TAIK 54",description:"The 54 most inspiring peoples in or from Africa"}),n.createElement(s.MP,null))}}}]);
+//# sourceMappingURL=component---src-pages-taik-54-js-e535914b14411fcd95e0.js.map
