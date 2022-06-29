@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunktaik_website=self.webpackChunktaik_website||[]).push([[691],{91070:function(e,t,n){n.r(t),n.d(t,{default:function(){return c}});var l=n(67294),r=n(19903),a=n(37110),i=a.c$.jL;function c(){return l.createElement(r.Z,{bannerChildren:l.createElement(i,{title:"Privacy Policy",description:"Please Read Carefully"})},l.createElement(a.HJ,{title:"TAIK - PRIVACY POLICY"}),l.createElement(a.pu,null))}}}]);
+//# sourceMappingURL=component---src-pages-privacypolicy-js-f434be18c14dcfc4a514.js.map

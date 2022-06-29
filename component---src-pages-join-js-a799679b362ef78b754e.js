@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunktaik_website=self.webpackChunktaik_website||[]).push([[985],{90969:function(e,n,t){t.r(n);var a=t(67294),l=t(19903),r=t(37110),c=r.c$.NV;n.default=function(){return a.createElement(l.Z,{bannerChildren:a.createElement(c,null),bannerStyle:{backgroundImage:"none"}},a.createElement(r.HJ,{title:"JOIN US"}),a.createElement(r.NV,null))}}}]);
+//# sourceMappingURL=component---src-pages-join-js-a799679b362ef78b754e.js.map
