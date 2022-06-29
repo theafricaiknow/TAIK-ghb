@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunktaik_website=self.webpackChunktaik_website||[]).push([[166],{50508:function(e,t,n){n.r(t);var a=n(67294),i=n(19903),r=n(97016),l=r.c$.jL;t.default=function(){return a.createElement(i.Z,{bannerChildren:a.createElement(l,{title:"Donate",description:"Your support is critical, help us positively change the narrative about Africa."}),bannerStyle:{paddingBottom:"150px"}},a.createElement(r.HJ,{title:"DONATION PAGE"}),a.createElement(r.U9,null))}}}]);
-//# sourceMappingURL=component---src-pages-donate-js-5ecc978c790c7ee16852.js.map

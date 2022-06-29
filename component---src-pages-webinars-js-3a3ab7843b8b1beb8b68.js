@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunktaik_website=self.webpackChunktaik_website||[]).push([[205],{41077:function(e,t,n){n.r(t);var a=n(67294),r=n(19903),c=n(97016);t.default=function(){return a.createElement(r.Z,{bannerHeight:"700px",bannerStyle:{backgroundImage:"none"},hide:!0},a.createElement(c.HJ,{title:"TAIK WEBINARS"}),a.createElement(c.Nc,null))}}}]);
-//# sourceMappingURL=component---src-pages-webinars-js-3a3ab7843b8b1beb8b68.js.map
